@@ -10,6 +10,7 @@ Plug 'scrooloose/nerdtree'
 Plug 'tpope/vim-fugitive'
 Plug 'tpope/vim-surround'
 Plug 'w0rp/ale'
+Plug 'editorconfig/editorconfig-vim'
 call plug#end()
 
 set autoindent
