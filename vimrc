@@ -7,6 +7,7 @@ Plug 'jeetsukumaran/vim-buffergator'
 Plug 'junegunn/fzf.vim'
 Plug 'mileszs/ack.vim'
 Plug 'scrooloose/nerdtree'
+Plug 'vim-syntastic/syntastic'
 Plug 'tpope/vim-fugitive'
 Plug 'tpope/vim-surround'
 Plug 'w0rp/ale'
@@ -66,5 +67,8 @@ let $FZF_DEFAULT_COMMAND = 'ag -g ""'
 
 let g:NERDTreeShowHidden=1
 let g:NERDTreeQuitOnOpen=1
+
+let g:syntastic_check_on_open = 1
+let g:syntastic_check_on_wq = 0
 
 colorscheme gruvbox
