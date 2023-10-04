@@ -1,0 +1,36 @@
+[submodule "autoload"]
+	path = autoload
+	url = https://github.com/junegunn/vim-plug
+[submodule "plugged/vim-gitgutter"]
+	path = plugged/vim-gitgutter
+	url = https://github.com/airblade/vim-gitgutter
+[submodule "plugged/gruvbox"]
+	path = plugged/gruvbox
+	url = https://github.com/morhetz/gruvbox
+[submodule "plugged/lightline.vim"]
+	path = plugged/lightline.vim
+	url = https://github.com/itchyny/lightline.vim
+[submodule "plugged/vim-buffergator"]
+	path = plugged/vim-buffergator
+	url = https://github.com/jeetsukumaran/vim-buffergator
+[submodule "plugged/fzf"]
+	path = plugged/fzf
+	url = https://github.com/junegunn/fzf
+[submodule "plugged/fzf.vim"]
+	path = plugged/fzf.vim
+	url = https://github.com/junegunn/fzf.vim
+[submodule "plugged/ack.vim"]
+	path = plugged/ack.vim
+	url = https://github.com/mileszs/ack.vim
+[submodule "plugged/nerdtree"]
+	path = plugged/nerdtree
+	url = https://github.com/scrooloose/nerdtree
+[submodule "plugged/vim-fugitive"]
+	path = plugged/vim-fugitive
+	url = https://github.com/tpope/vim-fugitive
+[submodule "plugged/vim-surround"]
+	path = plugged/vim-surround
+	url = https://github.com/tpope/vim-surround
+[submodule "plugged/editorconfig-vim"]
+	path = plugged/editorconfig-vim
+	url = https://github.com/editorconfig/editorconfig-vim
